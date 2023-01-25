@@ -1,0 +1,1 @@
+clientId: ${{ secrets.ARMORY_CLIENT_ID }} clientSecret:  ${{ secrets.ARMORY_CLIENT_SECRET }}
